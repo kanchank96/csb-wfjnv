@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://kanchank96.github.io/csb-wfjnv/static/css/main.71e0ce32.chunk.css",
-    "main.js": "https://kanchank96.github.io/csb-wfjnv/static/js/main.6eb2a5fd.chunk.js",
-    "main.js.map": "https://kanchank96.github.io/csb-wfjnv/static/js/main.6eb2a5fd.chunk.js.map",
+    "main.js": "https://kanchank96.github.io/csb-wfjnv/static/js/main.6ac5ca9b.chunk.js",
+    "main.js.map": "https://kanchank96.github.io/csb-wfjnv/static/js/main.6ac5ca9b.chunk.js.map",
     "runtime-main.js": "https://kanchank96.github.io/csb-wfjnv/static/js/runtime-main.dfaf5f44.js",
     "runtime-main.js.map": "https://kanchank96.github.io/csb-wfjnv/static/js/runtime-main.dfaf5f44.js.map",
-    "static/js/2.829b835f.chunk.js": "https://kanchank96.github.io/csb-wfjnv/static/js/2.829b835f.chunk.js",
-    "static/js/2.829b835f.chunk.js.map": "https://kanchank96.github.io/csb-wfjnv/static/js/2.829b835f.chunk.js.map",
+    "static/js/2.02d95117.chunk.js": "https://kanchank96.github.io/csb-wfjnv/static/js/2.02d95117.chunk.js",
+    "static/js/2.02d95117.chunk.js.map": "https://kanchank96.github.io/csb-wfjnv/static/js/2.02d95117.chunk.js.map",
     "index.html": "https://kanchank96.github.io/csb-wfjnv/index.html",
     "static/css/main.71e0ce32.chunk.css.map": "https://kanchank96.github.io/csb-wfjnv/static/css/main.71e0ce32.chunk.css.map",
-    "static/js/2.829b835f.chunk.js.LICENSE.txt": "https://kanchank96.github.io/csb-wfjnv/static/js/2.829b835f.chunk.js.LICENSE.txt"
+    "static/js/2.02d95117.chunk.js.LICENSE.txt": "https://kanchank96.github.io/csb-wfjnv/static/js/2.02d95117.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dfaf5f44.js",
-    "static/js/2.829b835f.chunk.js",
+    "static/js/2.02d95117.chunk.js",
     "static/css/main.71e0ce32.chunk.css",
-    "static/js/main.6eb2a5fd.chunk.js"
+    "static/js/main.6ac5ca9b.chunk.js"
   ]
 }
