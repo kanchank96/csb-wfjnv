@@ -1,0 +1,2 @@
+:root{--mainBlue:#2a2a72;--lightBlue:#009ffd;--mainWhite:#f3f3f3;--mainDark:#232528;--mainYellow:#ffa400}.App{font-family:sans-serif;text-align:center}.App,.resForm{display:flex;align-items:center;justify-content:center}.resForm{flex-wrap:wrap}.resForm,.resFormGroup{width:100%}@media (max-width:700px){.resForm{flex-direction:column}}
+/*# sourceMappingURL=main.2b1252fb.chunk.css.map */
