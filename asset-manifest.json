@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://kanchank96.github.io/csb-wfjnv/static/css/main.f0daf58c.chunk.css",
-    "main.js": "https://kanchank96.github.io/csb-wfjnv/static/js/main.44c59f98.chunk.js",
-    "main.js.map": "https://kanchank96.github.io/csb-wfjnv/static/js/main.44c59f98.chunk.js.map",
-    "runtime-main.js": "https://kanchank96.github.io/csb-wfjnv/static/js/runtime-main.dfaf5f44.js",
-    "runtime-main.js.map": "https://kanchank96.github.io/csb-wfjnv/static/js/runtime-main.dfaf5f44.js.map",
-    "static/css/2.cbedb215.chunk.css": "https://kanchank96.github.io/csb-wfjnv/static/css/2.cbedb215.chunk.css",
-    "static/js/2.d4889628.chunk.js": "https://kanchank96.github.io/csb-wfjnv/static/js/2.d4889628.chunk.js",
-    "static/js/2.d4889628.chunk.js.map": "https://kanchank96.github.io/csb-wfjnv/static/js/2.d4889628.chunk.js.map",
-    "index.html": "https://kanchank96.github.io/csb-wfjnv/index.html",
-    "static/css/2.cbedb215.chunk.css.map": "https://kanchank96.github.io/csb-wfjnv/static/css/2.cbedb215.chunk.css.map",
-    "static/css/main.f0daf58c.chunk.css.map": "https://kanchank96.github.io/csb-wfjnv/static/css/main.f0daf58c.chunk.css.map",
-    "static/js/2.d4889628.chunk.js.LICENSE.txt": "https://kanchank96.github.io/csb-wfjnv/static/js/2.d4889628.chunk.js.LICENSE.txt"
+    "main.css": "https://.github.io/csb-wfjnv/static/css/main.f0daf58c.chunk.css",
+    "main.js": "https://.github.io/csb-wfjnv/static/js/main.94567bb0.chunk.js",
+    "main.js.map": "https://.github.io/csb-wfjnv/static/js/main.94567bb0.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-wfjnv/static/js/runtime-main.778371ae.js",
+    "runtime-main.js.map": "https://.github.io/csb-wfjnv/static/js/runtime-main.778371ae.js.map",
+    "static/css/2.cbedb215.chunk.css": "https://.github.io/csb-wfjnv/static/css/2.cbedb215.chunk.css",
+    "static/js/2.d845f15d.chunk.js": "https://.github.io/csb-wfjnv/static/js/2.d845f15d.chunk.js",
+    "static/js/2.d845f15d.chunk.js.map": "https://.github.io/csb-wfjnv/static/js/2.d845f15d.chunk.js.map",
+    "index.html": "https://.github.io/csb-wfjnv/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "https://.github.io/csb-wfjnv/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.f0daf58c.chunk.css.map": "https://.github.io/csb-wfjnv/static/css/main.f0daf58c.chunk.css.map",
+    "static/js/2.d845f15d.chunk.js.LICENSE.txt": "https://.github.io/csb-wfjnv/static/js/2.d845f15d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfaf5f44.js",
+    "static/js/runtime-main.778371ae.js",
     "static/css/2.cbedb215.chunk.css",
-    "static/js/2.d4889628.chunk.js",
+    "static/js/2.d845f15d.chunk.js",
     "static/css/main.f0daf58c.chunk.css",
-    "static/js/main.44c59f98.chunk.js"
+    "static/js/main.94567bb0.chunk.js"
   ]
 }
